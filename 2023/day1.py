@@ -1,7 +1,7 @@
 import re
 
 def main():
-    with open("2023/day_one.input") as input_file:
+    with open("2023/day1.input") as input_file:
         input_content = input_file.read()
 
     digits = {
